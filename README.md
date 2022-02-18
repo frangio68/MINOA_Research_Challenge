@@ -26,8 +26,8 @@ the [rules of the challenge](doc/MINOA\_Challenge\_Rules.pdf),
 although these are of little use as of now.
 
 The [instances](instances) folder contains three sub-folders
-[Junior](instances/Junior], [Senior](instances/Senior], and
-[Professional](instances/Professional] that contains what basically
+[Junior](instances/Junior), [Senior](instances/Senior), and
+[Professional](instances/Professional) that contains what basically
 are the same instances, except restricted to the subset of the data
 required by the simpler versions of the problem for "Junior" and
 "Senior". In particular, the instances ... are those released during the
