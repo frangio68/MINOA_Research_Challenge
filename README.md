@@ -6,7 +6,7 @@ fleet of electric and Internal Combustion Engines Vehicles (ICE).
 The problem and this data has been developed by personnel of
 [M.A.I.O.R. S.r.l.](https://www.maior.it) in collaboration with
 personnel of the [Dipartimento di Informatica
-dell'Universit&acute; di Pisa](https://www.di.unipi.it) for the
+dell'Universit&aacute; di Pisa](https://www.di.unipi.it) for the
 purpose of the *Scientific Challenge* of the H2020 project
 [MINOA - Mixed-Integer Nonlinear Optimization
 Algorithms](https://minoa-itn.fau.de).
