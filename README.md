@@ -5,9 +5,9 @@ Timetabling and Vehicle Scheduling Problem* (ITTVS) with a mixed
 fleet of electric and Internal Combustion Engines Vehicles (ICE).
 The problem and this data has been developed by personnel of
 [M.A.I.O.R. S.r.l.](https://www.maior.it) in collaboration with
-personnel of the [Dipartimento di Informatica dell'Universita'
-di Pisa](https://www.di.unipi.it) for the purpose of the
-*Scientific Challenge* of the H2020 project
+personnel of the [Dipartimento di Informatica
+dell'Universit&agrave; di Pisa](https://www.di.unipi.it) for the
+purpose of the *Scientific Challenge* of the H2020 project
 [MINOA - Mixed-Integer Nonlinear Optimization
 Algorithms](https://minoa-itn.fau.de).
 
@@ -48,8 +48,8 @@ released here; interested readers can refer to the appropriate
 
 The material has been entirely developed by employees of
 [M.A.I.O.R. S.r.l.](https://www.maior.it) in collaboration with
-personnel of the [Dipartimento di Informatica dell'Universita'
-di Pisa](https://www.di.unipi.it).
+personnel of the [Dipartimento di Informatica
+dell'Universit&agrave; di Pisa](https://www.di.unipi.it).
 
 
 ## License
@@ -64,4 +64,4 @@ see the [LICENSE](LICENSE) file for details.
 
 MINOA has received funding from the Europeans Union's EU Framework
 Programme for Research and Innovation Horizon 2020 under the Marie
-Sklodowska-Curie Actions Grant Agreement No 764759.
+Sk&#322;odowska-Curie Actions Grant Agreement No 764759.
