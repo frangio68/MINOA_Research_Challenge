@@ -8,33 +8,38 @@ The problem and this data has been developed by personnel of
 personnel of the [Dipartimento di Informatica dell'Universita'
 di Pisa](https://www.di.unipi.it) for the purpose of the
 *Scientific Challenge* of the H2020 project
-[MINOA - Mixed-Integer Nonlinear Optimization Algorithms](https://minoa-itn.fau.de).
+[MINOA - Mixed-Integer Nonlinear Optimization
+Algorithms](https://minoa-itn.fau.de).
 
 
 ## Contents
 
 Three variants of the problem have been devised, of increasing
 complexity, for three different kinds of participants: "Junior",
-"Senior", and "Professional". Accordingly, the doc folder contains
-three different files which describe the [Junior](doc/Problem\_Description\_Junior.pdf), [Senior](doc/Problem\_Description\_Senior.pdf), and
+"Senior", and "Professional". Accordingly, the [doc](doc) folder
+contains three different files which describe the
+[Junior](doc/Problem\_Description\_Junior.pdf),
+[Senior](doc/Problem\_Description\_Senior.pdf), and
 [Professional](doc/Problem\_Description\_Professional.pdf)
 different but closely related variants of the problem. A
-[unique file](doc/Input\_Output\_format\_description.pdf) describes the
-format of the provided JSON input files and required output files,
+[unique file](doc/Input\_Output\_format\_description.pdf) describes
+the format of the provided JSON input files and required output files,
 detailing where the three variants differ. Finally, one file describes
 the [rules of the challenge](doc/MINOA\_Challenge\_Rules.pdf),
 although these are of little use as of now.
 
-The [instances](instances) folder contains three sub-folders
-[Junior](instances/Junior), [Senior](instances/Senior), and
-[Professional](instances/Professional) that contains what basically
-are the same instances, except restricted to the subset of the data
-required by the simpler versions of the problem for "Junior" and
-"Senior". In particular, the instances ... are those released during the
-preliminary phase, while the instances ... are those released during
-the final phase for the purpose of actual scoring.
+The [instances](instances) folder contains two sub-folders
+[test](instances/test), and [challenge](instances/challenge); the
+first contains the instances released during the preliminary phase of
+the challenge to let the teans test the waters, while the second
+contains the instances released during the final phase for the
+purpose of actual scoring. Each of these folders in turn contains the
+three sub-folders "Junior", "Senior" and "Professional", that contain
+what basically are the same instances, except restricted to the subset
+of the data required by the simpler versions of the problem for
+"Junior" and "Senior" ones.
 
-No solution data, nor information about the challenge results are
+No solution data, nor information about the challenge results, is
 released here; interested readers can refer to the appropriate
 [MINOA web page](https://minoa-itn.fau.de/?page_id=921).
 
@@ -49,8 +54,9 @@ di Pisa](https://www.di.unipi.it).
 
 ## License
 
-This code is provided free of charge under the [Creative Commons
-Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) -
+This data is provided free of charge under the [Creative Commons
+Attribution 4.0 International License
+(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) -
 see the [LICENSE](LICENSE) file for details.
 
 
