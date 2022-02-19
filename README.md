@@ -2,7 +2,7 @@
 
 This repository contains instances of a *Non-Periodic Integrated
 Timetabling and Vehicle Scheduling Problem* (ITTVS) with a mixed
-fleet of electric and Internal Combustion Engines Vehicles (ICE).
+fleet of electric and internal combustion engines vehicles.
 The problem and this data has been developed by personnel of
 [M.A.I.O.R. S.r.l.](https://www.maior.it) in collaboration with
 personnel of the [Dipartimento di Informatica
@@ -30,9 +30,9 @@ To cite this material you can use the following BibTeX entry:
 ## Contents
 
 Three variants of the problem have been devised, of increasing
-complexity, for three different kinds of participants: "Junior",
-"Senior", and "Professional". Accordingly, the [doc](doc) folder
-contains three different files which describe the
+complexity, for three different categories of participants:
+"Junior", "Senior", and "Professional". Accordingly, the [doc](doc)
+folder contains three different files which describe the
 [Junior](doc/Problem\_Description\_Junior.pdf),
 [Senior](doc/Problem\_Description\_Senior.pdf), and
 [Professional](doc/Problem\_Description\_Professional.pdf)
@@ -43,16 +43,16 @@ detailing where the three variants differ. Finally, one file describes
 the [rules of the challenge](doc/MINOA\_Challenge\_Rules.pdf),
 although these are of little use as of now.
 
-The [instances](instances) folder contains two sub-folders
-[test](instances/test), and [challenge](instances/challenge); the
+The [instances](instances) folder contains the two sub-folders
+[test](instances/test) and [challenge](instances/challenge); the
 first contains the instances released during the preliminary phase of
 the challenge to let the teams test the waters, while the second
 contains the instances released during the final phase for the
 purpose of actual scoring. Each of these folders in turn contains the
-three sub-folders "Junior", "Senior" and "Professional", that contain
-what basically are the same instances, except restricted to the subset
-of the data required by the simpler versions of the problem for
-"Junior" and "Senior" ones.
+three sub-folders "Junior", "Senior" and "Professional", each of which
+contains what basically are the same instances, except restricted to
+the subset of the data required by the simpler versions of the problem
+in the case of the "Junior" and "Senior" ones.
 
 No solution data, nor information about the challenge results, is
 released here; interested readers can refer to the appropriate
@@ -69,10 +69,10 @@ dell'Universit&aacute; di Pisa](https://www.di.unipi.it).
 
 ## License
 
-This data is provided free of charge under the [Creative Commons
-Attribution 4.0 International License
-(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) -
-see the [LICENSE](LICENSE) file for details.
+This data and the accompanying documents are provided free of
+charge under the [Creative Commons Attribution 4.0 International
+License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- see the [LICENSE](LICENSE) file for details.
 
 
 ## Acknowledgements
@@ -86,5 +86,5 @@ of the Award Committee. The Challenge Team is grateful to the
 MINOA Supervisory Board, and in particular to the Project
 Coordinator Frauke Liers, for their unrelenting support to the
 Challenge during these complicated times. Specific kudos to
-Dennis Adelh&uumlaut;tte for his collaboration, in particular
+Dennis Adelh&uuml;tte for his collaboration, in particular
 regarding the management of the MINOA web pages.
