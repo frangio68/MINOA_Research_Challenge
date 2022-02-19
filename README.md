@@ -12,6 +12,21 @@ purpose of the *Scientific Challenge* of the H2020 project
 Algorithms](https://minoa-itn.fau.de).
 
 
+## Cite
+
+To cite this material you can use the following BibTeX entry:
+
+```
+@misc{MINOA2022 ,
+ author = {Samuela Carosi and Antonio Frangioni and
+           Lorenzo Frangioni and Francesco Geraci} ,
+ title =  {MINOA Challenge Documentation and Instances} ,
+ year =   {2022} ,
+ url =    {https://github.com/frangio68/MINOA_Research_Challenge}
+ }
+```
+
+
 ## Contents
 
 Three variants of the problem have been devised, of increasing
@@ -31,7 +46,7 @@ although these are of little use as of now.
 The [instances](instances) folder contains two sub-folders
 [test](instances/test), and [challenge](instances/challenge); the
 first contains the instances released during the preliminary phase of
-the challenge to let the teans test the waters, while the second
+the challenge to let the teams test the waters, while the second
 contains the instances released during the final phase for the
 purpose of actual scoring. Each of these folders in turn contains the
 three sub-folders "Junior", "Senior" and "Professional", that contain
@@ -64,4 +79,12 @@ see the [LICENSE](LICENSE) file for details.
 
 MINOA has received funding from the Europeans Union's EU Framework
 Programme for Research and Innovation Horizon 2020 under the Marie
-Sk&#322;odowska-Curie Actions Grant Agreement No 764759.
+Sk&#322;odowska-Curie Actions Grant Agreement No 764759. Samuela
+Carosi and Antonio Frangioni are personally very grateful to
+Etienne de Klerk for bravely volunteering for the role of member
+of the Award Committee. The Challenge Team is grateful to the
+MINOA Supervisory Board, and in particular to the Project
+Coordinator Frauke Liers, for their unrelenting support to the
+Challenge during these complicated times. Specific kudos to
+Dennis Adelh&uumlaut;tte for his collaboration, in particular
+regarding the management of the MINOA web pages.
