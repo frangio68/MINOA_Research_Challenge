@@ -54,8 +54,8 @@ contains what basically are the same instances, except restricted to
 the subset of the data required by the simpler versions of the problem
 in the case of the "Junior" and "Senior" ones.
 
-No solution data, nor information about the challenge results, is
-released here; interested readers can refer to the appropriate
+Neither solution data nor information about the challenge results
+is released here; interested readers can refer to the appropriate
 [MINOA web page](https://minoa-itn.fau.de/?page_id=921).
 
 
