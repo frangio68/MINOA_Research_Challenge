@@ -14,7 +14,11 @@ Algorithms](https://minoa-itn.fau.de).
 
 ## Cite
 
-To cite this material you can use the following BibTeX entry:
+To cite this material, please cite this repository, using the following DOI:
+
+[![DOI](https://zenodo.org/badge/460989331.svg)](https://zenodo.org/badge/latestdoi/460989331)
+
+One possible BibTeX entry is as follows;
 
 ```
 @misc{MINOA2022 ,
@@ -22,8 +26,9 @@ To cite this material you can use the following BibTeX entry:
            Lorenzo Frangioni and Francesco Geraci} ,
  title =  {MINOA Challenge Documentation and Instances} ,
  year =   {2022} ,
- url =    {https://github.com/frangio68/MINOA_Research_Challenge}
- }
+ url =    {https://github.com/frangio68/MINOA_Research_Challenge} ,
+ doi =    {10.5281/zenodo.6210144}
+}
 ```
 
 
